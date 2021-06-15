@@ -1,0 +1,21 @@
+body {
+    background-color:#fffbf7;
+    background-image: https://bedu.org/;
+}
+
+h1 {
+    color:rgba(111,111,201);
+    font-size: 100px;
+}
+h2{
+    color:#46484c;
+}
+
+p{
+    color: #8b8b8bcc;
+}
+
+button {
+background-color:#025157;
+
+}
